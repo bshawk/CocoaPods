@@ -7,8 +7,8 @@ GIT
 
 GIT
   remote: https://github.com/CocoaPods/Core.git
-  revision: fd91651f8f76ae6f90cbe8bf14dda93f02452eeb
-  branch: master
+  revision: 00415bf1cbc0a58439f7705268c3ac9ab9d9b32a
+  branch: seg-module-map
   specs:
     cocoapods-core (0.36.1)
       activesupport (>= 3.2.15)
